@@ -333,6 +333,7 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: space-evenly;
+    transition:s;
 }
 
 
@@ -343,10 +344,6 @@ body {
     box-shadow: 0 0 10px #A7E7F9,
                  0 0 20px #A7E7F9,
                  0 0 40px #A7E7F9;
-    
-}
-#about .abt-desc .che-gall a p:hover{
-    color: #061E35;
     
 }
 
