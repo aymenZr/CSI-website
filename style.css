@@ -56,6 +56,9 @@ body {
 }
 .navbar .navbar-items .navbar-item {
     width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
  .navbar .navbar-items .navbar-item a {
     font-size: 16px;
